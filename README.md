@@ -3,7 +3,7 @@
 
 ## Install the dependencies 
 ```
-npm install or yarn install
+npm install 
 ```
 Run after npm install and you can use node core modules and npm modules that use them in your React Native app.
 ```
