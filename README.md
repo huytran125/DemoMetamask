@@ -34,13 +34,13 @@ and ChainId to our app from account sign in metamask
 1. Open metamask from webview in our app
 2. Open metamask by DeepLink from our app
 
-And I choose the second way. But in second way, we can 
+  And I choose the second way. But in second way, we can 
 open metamask by deeplink but how can we get data from metamask
 to our app. I have research and find out WalletConnect Library 
 can help us to open metamask by DeepLink and receive data from
 metamask by websocket
-After dive deep into WalletConnect library, I know how they use
- deep link to open app and How they set up websocket server to receive
+  After dive deep into WalletConnect library, I know how they use
+deep link to open app and How they set up websocket server to receive
 data from metamask. But implement this by our self take a long time 
 for me so I decided to just use there library
 
