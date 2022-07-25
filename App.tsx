@@ -1,8 +1,5 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import {
-  useWalletConnect,
-  withWalletConnect,
-} from '@walletconnect/react-native-dapp';
+import {withWalletConnect} from '@walletconnect/react-native-dapp';
 import {Button} from 'react-native';
 import * as React from 'react';
 import Home from './src/Home';
