@@ -5,7 +5,7 @@
 ```
 npm install 
 ```
-Run after npm install and you can use node core modules and npm modules that use them in your React Native app.
+Make sure to run this after npm install because we use some module from node environment.
 ```
 npx rn-nodeify --install --hack.
 ```
